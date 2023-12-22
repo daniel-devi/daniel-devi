@@ -1,9 +1,8 @@
 ### Hi there 👋
 <img src="https://raw.githubusercontent.com/BEPb/BEPb/5c63fa170d1cbbb0b1974f05a3dbe6aca3f5b7f3/assets/Bottom_up.svg" width="100%" />
-<h1 align="center">Hi 👋, I'm DANIEL AGUFENWA</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=daniel-devi&label=Profile%20views&color=0e75b6&style=flat" alt="daniel-devi" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=daniel-devi&theme=" alt="daniel-devi" /></a> </p>Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Daniel Agufenwa
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Daniel Agufenwa
 =======================================================================================================================================
 
 Web Developer
@@ -32,7 +31,10 @@ src="https://img.shields.io/github/followers/daniel-devi?logo=github&style=for-t
 
 <a href="http://www.github.com/daniel-devi"><img src="https://github-readme-stats.vercel.app/api?username=daniel-devi&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="daniel-devi's GitHub stats" /></a>
 
+<a href="http://www.github.com/daniel-devi"><img src="https://github-readme-streak-stats.herokuapp.com/?user=daniel-devi&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+
 <a href="https://github.com/daniel-devi" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=daniel-devi&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+
 <img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" />
 
 <!--
