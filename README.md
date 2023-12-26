@@ -8,7 +8,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Web Developer
 -------------
 
-* 🌍  I'm based in UK
+* 🌍  I'm based in the UK
 * ✉️  You can contact me at [devonaguh33@gmail.com](mailto:devonaguh33@gmail.com)
 * 🧠  I'm learning Dart and Flutter
 * 🤝  I'm open to collaborating on Interesting Projects
