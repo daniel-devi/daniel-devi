@@ -8,6 +8,15 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Web Developer
 -------------
 
+![SVG Banners](https://svg-banners.vercel.app/api?type=luminance&text1=Daniel%20Agufenwa&text2=💖%20A%20Passionate%20Coder,Developer%20and%20Debugger&width=900&height=400)
+
+
+<img height="auto" src="https://komarev.com/ghpvc/?username=technicalranjitofficial&label=Profile%20views&color=0e75b6&style=flat" alt="profile-radme-generator" />
+
+
+
+<p align="left"> <img width="900" height="110" src="https://readme-jokes.vercel.app/api" alt ="tr"/> </p>
+
 * 🌍  I'm based in the UK
 * ✉️  You can contact me at [devonaguh33@gmail.com](mailto:devonaguh33@gmail.com)
 * 🧠  I'm learning Dart and Flutter
