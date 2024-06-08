@@ -18,7 +18,7 @@ Web Developer
 
 * 🌍  I'm based in the UK
 * ✉️  You can contact me at [devonaguh33@gmail.com](mailto:devonaguh33@gmail.com)
-* 🧠  I will be learning Dart and Flutter Once am done with React
+* 🧠  I will be learning React Native for Mobile Development 
 * 🤝  I'm open to collaborating on Interesting Projects
 * ⚡  I think am cool😎
 
