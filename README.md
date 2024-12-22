@@ -39,7 +39,7 @@
 - ♟️ **Chess Enthusiast**: Currently grinding to improve my ELO. Let’s play a game?  
 - 📚 **Bookworm**: Always diving into tech and personal development books. Recommendations welcome!  
 - 🌏 **Language Learner**: Working on my French and Chinese skills – feel free to practice with me!
-- I try to stay fit with regular exercise *
+- *I try to stay fit with regular exercise*
 ---
 
 ## 🌟 Fun Facts About Me
